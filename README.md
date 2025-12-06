@@ -2,7 +2,7 @@
 
 ## Demo
 
-![Number Guesser in Action] (screenshots/demo.png)
+![Number Guesser in Action](screenshots/demo.png)
 *the computer successfully guessing number 12 in 6 attempts*
 
 
