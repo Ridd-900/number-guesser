@@ -36,5 +36,6 @@ A Python program where the computer tries to guess a number chosen by the user.
 - Problem-solving through incremental improvements
 
 ## How to Run
-`bash
+```bash
 python number_guesser.py
+```
