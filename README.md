@@ -1,5 +1,11 @@
 # Number Guesser
 
+## Demo
+
+![Number Guesser in Action] (screenshots/demo.png)
+*the computer successfully guessing number 12 in 6 attempts*
+
+
 A Python program where the computer tries to guess a number chosen by the user.
 
 ## Features
